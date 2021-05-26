@@ -1,0 +1,49 @@
+.bd-example{
+	margin-top: 20px;
+}
+
+.container{
+	width: 90%;
+	margin: 0 auto;
+}
+
+.sec_02{
+	width: 100%;
+	margin: 0 auto;
+}
+
+.bread_link{
+	width: 140px;
+}
+
+#blog-cards{
+	text-align: center;
+	margin: 80px 0 50px 0;
+}
+
+.blog_pagination{
+	width: 300px;
+	margin: 40px auto 20px auto;
+}
+
+.accordion{
+	margin: 0 0 50px 0;
+} 
+
+#Carousel4{
+	width: 75%;
+	height: 600px;
+	margin: 0 auto;
+}
+
+.carousel-item{
+	height: 550px;
+}
+
+.section{
+	margin-bottom: 50px;
+}
+
+.rounded.section{
+	margin-bottom: 65px;
+}
